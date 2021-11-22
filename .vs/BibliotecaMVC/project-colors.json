@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02b4e48f-d30b-4139-a79c-6fbafebf537e": {
+      "ProjectGuid": "02b4e48f-d30b-4139-a79c-6fbafebf537e",
+      "DisplayName": "BibliotecaMVC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
