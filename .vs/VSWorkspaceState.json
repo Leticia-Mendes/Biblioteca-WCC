@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\BibliotecaMVC",
-    "\\BibliotecaMVC\\Service"
+    "\\BibliotecaMVC\\Controllers",
+    "\\BibliotecaMVC\\Models",
+    "\\BibliotecaMVC\\Service",
+    "\\BibliotecaMVC\\Views",
+    "\\BibliotecaMVC\\Views\\Livro"
   ],
   "SelectedNode": "\\BibliotecaMVC.sln",
   "PreviewInSolutionExplorer": false

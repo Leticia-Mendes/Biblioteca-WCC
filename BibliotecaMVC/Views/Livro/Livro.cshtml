@@ -15,12 +15,15 @@
     <thead>
         <tr>
             <th>Capa</th>
-            <th>
+                        <th>
                 @Html.DisplayNameFor(model => model.Titulo)
             </th>
-            <th>
+             <th>
                 @Html.DisplayNameFor(model => model.Autora)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>           
             <th>
                 @Html.DisplayNameFor(model => model.Preco)
             </th>
@@ -40,11 +43,14 @@
                 @Html.DisplayFor(modelItem => item.Autora.Nome)
             </td>
             <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Preco)
             </td>
-            <!--td>
-                <a asp-action="LivroDetail" asp-route-id="@item.Id">Detalhes</a>
-            </td-->
+            <td>
+                <a asp-action="LivroDetail" asp-route-id="@item.Id">Detalhes</a> 
+            </td>            
         </tr>
 }
     </tbody>

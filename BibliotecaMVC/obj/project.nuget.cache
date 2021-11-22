@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zrq0ElydFhFMvQzSb7Nxyo34D9Atgyc1ufdVTCOS9z8H3s/ogz+RBFeQAPeua1iiYBCyqVvrkEoz3bYmKWYGg==",
+  "dgSpecHash": "GDZAqASFsF/uX/EWj34r1k3mNg+Xsm04Fo2kwCkVKUEdZKZ+UncMfzsaZpv5hne91b5nMOIU713sxIDdglFr5A==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
+  "projectFilePath": "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

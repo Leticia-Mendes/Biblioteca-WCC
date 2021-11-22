@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj": {}
+    "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj": {
+    "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
         "projectName": "BibliotecaMVC",
-        "projectPath": "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
+        "projectPath": "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\BibliotecaMVC.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\WCC\\BibliotecaMVC\\BibliotecaMVC\\obj\\",
+        "outputPath": "D:\\codigo-c#\\BibliotecaMVC\\BibliotecaMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
